@@ -1,0 +1,7 @@
+# ninja log v5
+43	214	1604812418212768347	CMakeFiles/mp3meta.dir/src/id3v2lib_utils.c.o	5dd9814ac742074b
+1	59	1604820118949738501	CMakeFiles/mp3meta.dir/src/mp3meta.c.o	c20f69ad8938010d
+0	57	1604814870382367385	CMakeFiles/mp3meta.dir/src/main.c.o	3cd5202e8e9bc455
+60	129	1604820119013071974	mp3meta	90c1a31ab9f2f691
+18	153	1604812418152768213	CMakeFiles/mp3meta.dir/src/utils.c.o	abb69568c578d997
+1	122	1604814624041718923	CMakeFiles/mp3meta.dir/src/types.c.o	3c2f8c159d50ce5d
